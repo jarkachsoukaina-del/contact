@@ -1,0 +1,86 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(251, 253, 254);
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    
+}
+.card{
+  background-color: rgb(245, 240, 240) ; 
+  height: 525px;
+  width: 40%;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 10%;
+  box-shadow: 0 5px 10px;
+}
+
+  .hh{
+  padding:15px;
+  height: 50px;
+
+  
+}
+
+  .bel{
+    height:60px;
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    
+    
+    
+  }
+  .bel .ll{
+    margin: 12px;
+    
+  }
+  .bel .ff{
+    margin:12px ;
+  }
+
+  .email{
+   width: 90%;
+   height: 40px;
+   padding: 5px;
+  }
+
+  .bb{
+    margin: 20px;
+  }
+  .message{
+    width: 80%;
+    padding: 40px;
+  }
+  .qq{
+    padding: 12px;
+  }
+
+  .query{
+    padding: 13px;
+  }
+.in button{
+  padding: 100px;
+  all: unset;
+  border: 1px solid gray;
+  margin: 12px;
+  
+  
+}
+.su{
+  width: 100%;
+  background-color: rgb(5, 138, 76);
+  padding: 10px;
+  border-radius: 12px;
+}
+.ee{
+  padding-left: 20px;
+}
+.mm{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.ii{
+  padding: 10px;
+}
